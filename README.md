@@ -25,6 +25,7 @@ i made this for the following reasons:
 - Git
 - GitHub Desktop
 - GOG GALAXY 2.0
+- Headset drivers
 - HP Stuff (idr all of them and im lazy to remember all the names, yeah)
 - Mouse software 
 - Google Chrome
@@ -72,18 +73,6 @@ P.S. probably forgot some apps but they arent important ig cuz if they were they
 
 > gonna fill later
 <br><br>
-### Games
-
-*yes i forget what games i play.......interesting..?*
-
-#### Windows 10
-- Ironsight
-- Salwyrr Minecraft Launcher
-- TLauncher (*sad face*)
-- Valorant
-
-#### Android 11
-- Call Of Duty: Mobile
 
 
 ## alright ig thats it......
