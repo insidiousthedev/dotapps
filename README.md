@@ -49,6 +49,7 @@ i made this for the following reasons:
 - Steam
 - TaskbarX
 - Ubuntu (WSL)
+- Vivaldi
 - VLC Media Player
 - Whatsapp
 - Windows Terminal
@@ -56,7 +57,7 @@ i made this for the following reasons:
 - Zoom <br><br>
 P.S. probably forgot some apps but they arent important ig cuz if they were they would be in the list already ;)
 <br><br>
-### Chrome Extensions
+### Chrome/Vivaldi/Brave Extensions
 - daily.dev
 - Dark Reader
 - GooseMod for Web
